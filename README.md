@@ -8,7 +8,7 @@ Este es un proyecto que simula una API para gestionar un inventario de productos
 
 - Python 3.x
 - Flask
--CORS
+- CORS
 
 ##USO
 
