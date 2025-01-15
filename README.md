@@ -1,5 +1,4 @@
-# API de Inventario
-
+# API de Inventario`
 ## Descripción
 
 Este es un proyecto que simula una API para gestionar un inventario de productos. Los usuarios pueden consultar productos, agregar nuevos productos y actualizar la cantidad en stock.
@@ -18,7 +17,7 @@ Ejemplo:
  - En la consola ponemos cuando estemos dentro de la carpeta del proyecto ponemos python -m venv venv y luego
 .\venv\Scripts\activate
 
-e instalamos las dependenciaS de requerimientos
+e instalamos las dependencias necesesarias especificado en Requerimientos
 
 
 
